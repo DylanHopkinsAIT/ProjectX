@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LushSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -4912672310183595461, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -179662150081510258, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 8966047726415308963, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 4993075722375953968, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 7341498633725826352, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 5303847723602694527, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -809798400197614527, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 1120563431672774375, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -1685030131400377266, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 102076495650634565, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 559307567905805554, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -4390978183727758541, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 3280827699658720134, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 1778028933137355578, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -8724411186149196230, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 3154727353985586439, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -1026472659055686929, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -1642134639058634069, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 7576103513992488921, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 8414381247523935800, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 2640694047248024127, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -4625533530353060323, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 2717888622192774610, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 3772027360748364192, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 786722131057071220, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 5919372618982226575, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 4655588035694007378, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 6838583458819420577, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -522923821462044298, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 1009820721085626051, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 7959507485674261204, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -1017388516202386325, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -7775457688679838718, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -5025580645177296626, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -3688848648731299829, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -2729288890803137131, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -2411929300400695744, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 2316229786649174301, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -4267800913018254633, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -415954689115773482, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 8389436810973504747, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 1094386946584917064, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 8309725403004280485, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -5324361532066874941, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -6004192762241252810, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 6866937634765726260, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 1301681057633259378, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -5073818026220632748, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -252052580119676204, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 3327395113437605115, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 5461237739606048780, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -5401557565428113667, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 3760077732825445407, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -18578600184517232, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 5165723811338146877, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 6215585238659902530, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -5313356891197862396, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 4322422708976982110, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -2012329509250748488, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -8608774755410369304, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 5502782850461036461, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -8359010192937716617, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -7887096379787541408, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 8865594189925390116, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 7856199893907986380, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 4949867235682994025, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -3578641109054317975, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: -1088433668442957744, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  - {fileID: 3140587639889202857, guid: eb06c200ff8f4db4db8ab80cac800587, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Mountain_Falls_main_layer_LUSH_1
+  - Mountain_Falls_main_layer_LUSH_0
+  - Mountain_Falls_main_layer_LUSH_3
+  - Mountain_Falls_main_layer_LUSH_2
+  - Mountain_Falls_main_layer_LUSH_5
+  - Mountain_Falls_main_layer_LUSH_4
+  - Mountain_Falls_main_layer_LUSH_7
+  - Mountain_Falls_main_layer_LUSH_6
+  - Mountain_Falls_main_layer_LUSH_9
+  - Mountain_Falls_main_layer_LUSH_8
+  - Mountain_Falls_main_layer_LUSH_36
+  - Mountain_Falls_main_layer_LUSH_37
+  - Mountain_Falls_main_layer_LUSH_34
+  - Mountain_Falls_main_layer_LUSH_35
+  - Mountain_Falls_main_layer_LUSH_29
+  - Mountain_Falls_main_layer_LUSH_32
+  - Mountain_Falls_main_layer_LUSH_28
+  - Mountain_Falls_main_layer_LUSH_33
+  - Mountain_Falls_main_layer_LUSH_30
+  - Mountain_Falls_main_layer_LUSH_31
+  - Mountain_Falls_main_layer_LUSH_58
+  - Mountain_Falls_main_layer_LUSH_21
+  - Mountain_Falls_main_layer_LUSH_59
+  - Mountain_Falls_main_layer_LUSH_20
+  - Mountain_Falls_main_layer_LUSH_23
+  - Mountain_Falls_main_layer_LUSH_38
+  - Mountain_Falls_main_layer_LUSH_22
+  - Mountain_Falls_main_layer_LUSH_54
+  - Mountain_Falls_main_layer_LUSH_39
+  - Mountain_Falls_main_layer_LUSH_25
+  - Mountain_Falls_main_layer_LUSH_55
+  - Mountain_Falls_main_layer_LUSH_24
+  - Mountain_Falls_main_layer_LUSH_56
+  - Mountain_Falls_main_layer_LUSH_27
+  - Mountain_Falls_main_layer_LUSH_57
+  - Mountain_Falls_main_layer_LUSH_26
+  - Mountain_Falls_main_layer_LUSH_50
+  - Mountain_Falls_main_layer_LUSH_51
+  - Mountain_Falls_main_layer_LUSH_52
+  - Mountain_Falls_main_layer_LUSH_53
+  - Mountain_Falls_main_layer_LUSH_10
+  - Mountain_Falls_main_layer_LUSH_11
+  - Mountain_Falls_main_layer_LUSH_12
+  - Mountain_Falls_main_layer_LUSH_13
+  - Mountain_Falls_main_layer_LUSH_14
+  - Mountain_Falls_main_layer_LUSH_15
+  - Mountain_Falls_main_layer_LUSH_65
+  - Mountain_Falls_main_layer_LUSH_16
+  - Mountain_Falls_main_layer_LUSH_64
+  - Mountain_Falls_main_layer_LUSH_17
+  - Mountain_Falls_main_layer_LUSH_67
+  - Mountain_Falls_main_layer_LUSH_18
+  - Mountain_Falls_main_layer_LUSH_66
+  - Mountain_Falls_main_layer_LUSH_19
+  - Mountain_Falls_main_layer_LUSH_61
+  - Mountain_Falls_main_layer_LUSH_60
+  - Mountain_Falls_main_layer_LUSH_63
+  - Mountain_Falls_main_layer_LUSH_62
+  - Mountain_Falls_main_layer_LUSH_68
+  - Mountain_Falls_main_layer_LUSH_49
+  - Mountain_Falls_main_layer_LUSH_48
+  - Mountain_Falls_main_layer_LUSH_47
+  - Mountain_Falls_main_layer_LUSH_46
+  - Mountain_Falls_main_layer_LUSH_45
+  - Mountain_Falls_main_layer_LUSH_44
+  - Mountain_Falls_main_layer_LUSH_43
+  - Mountain_Falls_main_layer_LUSH_42
+  - Mountain_Falls_main_layer_LUSH_41
+  - Mountain_Falls_main_layer_LUSH_40
+  m_RenderDataMap: {}
+  m_Tag: LushSpriteAtlas
+  m_IsVariant: 0
