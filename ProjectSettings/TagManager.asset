@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Trap
+  - Platform
   layers:
   - Default
   - TransparentFX
@@ -11,7 +13,7 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
+  - Flora
   - 
   - 
   - 
@@ -38,12 +40,27 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Parallax
+    uniqueID: 984899907
+    locked: 0
+  - name: Background
+    uniqueID: 421947057
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player / Enemies
+  - name: Player
     uniqueID: 1534703235
+    locked: 0
+  - name: Flora
+    uniqueID: 3643380301
+    locked: 0
+  - name: NPC
+    uniqueID: 4216403907
     locked: 0
   - name: Terrain
     uniqueID: 2698949315
+    locked: 0
+  - name: Water
+    uniqueID: 2364208491
     locked: 0
